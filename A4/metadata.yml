@@ -1,0 +1,12 @@
+---
+:id: 214702351
+:submitters:
+- :name: Maxine Rose Mayor
+  :email: mmayor4387@sdsu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-11-21 11:42:25.820174000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-11-21 03:42:25.820174000 Z
+:status: processed
+:score: 54.9
