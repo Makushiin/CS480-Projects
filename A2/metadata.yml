@@ -1,0 +1,13 @@
+---
+:id: 197461043
+:submitters:
+- :name: Aya Abdul Hasan
+  :email: aabdulhasan2898@sdsu.edu
+- :name: Maxine Rose Mayor
+  :email: mmayor4387@sdsu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-09-28 05:01:58.745430000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-09-27 22:01:58.745430000 Z
+:status: processed
